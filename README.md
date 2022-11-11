@@ -1,1 +1,1 @@
-# Mallorca-Tech-Newsletter.github.io
+# MallorcaTech Newsletter
